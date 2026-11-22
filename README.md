@@ -4,32 +4,9 @@
 
 I'm an Informatics Engineering student passionate about software development, artificial intelligence, and technology. I enjoy exploring new technologies, building projects, and continuously improving my technical skills.
 
-### About Me
-
-- Currently studying Informatics Engineering.
-- Interested in Software Engineering and Artificial Intelligence.
-- Exploring Web Development with Laravel.
-- Experienced in Python-based development and creative technology.
-- Always looking to learn, build, and collaborate.
-
-### Technical Interests
-
-- **Programming:** Python, PHP, JavaScript, SQL
-- **Frameworks:** Laravel
-- **Tools:** Git, GitHub, VS Code
-- **Creative Technology:** Blender, 3D Modeling, Animation
-
-### Currently Learning
-
-- Backend Development with Laravel
-- Software Architecture and Engineering
-- Database Management
-- Artificial Intelligence
-
-### Featured Projects
+## Featured Projects
 
 
----
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azrayt4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadAzra) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/azraalfy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azraalfy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azra.alfy@gmail.com) 
 
