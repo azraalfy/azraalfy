@@ -1,6 +1,6 @@
 # Muhammad Alfayyadh Azra
 
-**Informatics Engineering Student | Aspiring Software Engineer**
+**Informatics Engineering Student | Software Engineer**
 
 I'm an Informatics Engineering student passionate about software development, artificial intelligence, and technology. I enjoy exploring new technologies, building projects, and continuously improving my technical skills.
 
